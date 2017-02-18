@@ -1,3 +1,3 @@
 #!/bin/sh
-gcc calc.c -out program
+gcc calc.c -o program
 ./program
